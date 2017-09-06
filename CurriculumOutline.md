@@ -11,6 +11,11 @@ A3 training will be broken into the following topics:
 ## Introduction to Git and GitHub
 
 ### Objective
+- Understand the git branching model
+- Understand the git working process and the GitHub flow
+- Understand the collaborative tools of GitHub
+  - Pull Requests
+  - Issues
 
 ### Exercises
 
